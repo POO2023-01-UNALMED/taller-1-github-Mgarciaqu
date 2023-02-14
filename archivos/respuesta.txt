@@ -1,0 +1,1 @@
+En el punto 8 no se pudo realizar commit ya que era una carpeta vacia
