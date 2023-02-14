@@ -1,3 +1,5 @@
 Michael Garcia Quincos,
 22 años,
 Aprender demasiado y cogerle amor a la materia
+Ahora si se pudo hacer commit ya que la carpeta archivos no está vacía
+Es importante tener cuidado al editar un documento para evitar conflictos por las diferentes versiones del archivo que estemos editando
